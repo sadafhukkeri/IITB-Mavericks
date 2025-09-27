@@ -11,7 +11,6 @@
 | SVM | 1.000 | 1.000 |
 | Logistic Regression | 1.000 | 1.000 |
 
-> Notes: Perfect scores for SVM & Logistic Regression likely due to small test set size (8 samples).
 
 ### ML Models Evaluation Across Participants 1–38 (5-fold CV)
 #### Logistic Regression
