@@ -1,5 +1,6 @@
 # Cognitive Load Detection from EEG + GSR
 ---
+**Group ID : T1_G29 | Group Name : Mavericks_2**
 ## Model Evaluation
 
 ### Machine Learning Models (Participant 1)
@@ -52,5 +53,10 @@
 | Transformer (feature data) | 42.48% |
 | Highly Tuned CNN-BiLSTM (feature data) | 41.35% |
 ---
-## Author
-- **Group_ID T1_G29 | Group_Name Mavericks_2**   
+
+##  Contributors
+- **Sadaf Hukkeri** – [GitHub](https://github.com/sadafhukkeri)  
+- **Pranav Bhosale** – [GitHub](https://github.com/PranavBhosale20)  
+- **Sanika Patil** – [GitHub](https://github.com/Sanika-Patil27)  
+- **Sakib Pendhari** – [GitHub](https://github.com/sakib850)  
+
